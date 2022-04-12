@@ -1,9 +1,9 @@
+// packages required
 const dayjs = require("dayjs");
 var currentYear = dayjs().format("YYYY");
 var userName = "";
 
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// function for license badges
 function renderLicenseBadge(license) {
     switch (license) {
         case "MIT":
@@ -23,8 +23,7 @@ function renderLicenseBadge(license) {
     }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// function for license section
 function renderLicenseSection(license) {
     switch (license) {
         case "MIT":
@@ -89,7 +88,7 @@ function renderLicenseSection(license) {
     }
 }
 
-// TODO: Create a function to generate markdown for README
+// function for readme markdown
 function generateMarkdown(data) {
     userName = data.name;
     let licenseBadge = renderLicenseBadge(data.license);

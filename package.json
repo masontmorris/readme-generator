@@ -1,12 +1,12 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mason Morris",
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.11.0",
