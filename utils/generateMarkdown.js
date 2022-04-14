@@ -119,9 +119,9 @@ ${data.contributionGuidelines}
 ${data.testing}
 <a name="for-more"/>
 ## For more...
-[Email me](${data.emailAddress})
+[Email me](mailto:${data.emailAddress})
 
-[Check out my other projects on Github!](github.com/${data.username})
+[Check out my other projects on Github!](https://www.github.com/${data.username})
 `;
 }
 

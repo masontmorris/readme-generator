@@ -48,6 +48,6 @@ N/A
 
 ## For more...
 
-[Email me](masonmorris8@gmail.com)
+[Email me](mailto:masonmorris8@gmail.com)
 
-[Check out my other projects on Github!](github.com/masontmorris)
+[Check out my other projects on Github!](https://www.github.com/masontmorris)
