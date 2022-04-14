@@ -103,22 +103,34 @@ ${data.description}
 * [For more...](#for-more)
 
 <a name="installation"/>
+
 ## Installation
+
 ${data.installation}
 <a name="usage"/>
+
 ## Usage
+
 ${data.usage}
 <a name="license"/>
+
 ## License
+
 ${licenseDescription}
 <a name="contributing"/>
+
 ## Contributing
+
 ${data.contributionGuidelines}
 <a name="testing"/>
+
 ## Testing
+
 ${data.testing}
 <a name="for-more"/>
+
 ## For more...
+
 [Email me](mailto:${data.emailAddress})
 
 [Check out my other projects on Github!](https://www.github.com/${data.username})
