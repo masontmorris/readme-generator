@@ -22,6 +22,8 @@ Install Node, clone the repository from Github, and run 'npm install'.
 
 ## Usage
 
+[Check out the demo video!](https://www.youtube.com/watch?v=cbBO2C2-RDc)
+
 Run index.js in Node and follow the terminal prompts.
 <a name="license"/>
 
